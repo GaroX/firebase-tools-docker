@@ -1,4 +1,4 @@
-# firebase-tools - Garo
+# firebase-tools
 
 [Firebase CLI](https://www.npmjs.com/package/firebase-tools) installed globally over the official [NodeJS image](https://hub.docker.com/_/node)
 
